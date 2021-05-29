@@ -79,4 +79,12 @@ a{
     font-size: 40px;
     margin: 30px;    
     border-radius: 20px;
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+a:active{
+    color: black;
 }
